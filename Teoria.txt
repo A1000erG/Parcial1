@@ -1,0 +1,6 @@
+1-) En mi caso para ambas operaciones las notaciones serían O(1), Omega(1), Theta(1). Pues la cantidad de operaciones a realizar en la implementación de dicha función es constante.
+2-) a) La complejidad total para ambos procesos sería lineal
+	b) O(n)
+3-) b)La implementación más simple de mantener sería con una lista enlazada doble
+a) Si debemos recorrer la lista una implementación circular doblemente enlazada sería una opción bastante eficiente
+c) Si la lista enlazada está ordenada sería mucho más eficiente la búsqueda e inserción de un elemento en un lugar específico y podría disminuirse la complejidad temporal, no obstante la complejidad espacial aumentaría
